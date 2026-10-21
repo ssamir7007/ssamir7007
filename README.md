@@ -1,9 +1,6 @@
 <div align="center">
 
-# Hey, I'm Shadman 👋
-
-### Computer Science @ Texas Tech University
-**Software Engineering • AI/ML • Web3**
+![Shadman Samir — Software Engineering, AI & ML, Web3](assets/profile-banner.svg)
 
 I build software that connects practical problems with thoughtful technical solutions.
 
