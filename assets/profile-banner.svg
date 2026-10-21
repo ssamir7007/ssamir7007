@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-label="Shadman Samir — software engineering, AI and Web3">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1020"/><stop offset="1" stop-color="#15243a"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient><pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#a5b4fc" opacity=".16"/></pattern></defs>
+<rect width="1200" height="310" rx="22" fill="url(#bg)"/><rect width="1200" height="310" rx="22" fill="url(#dots)"/>
+<path d="M820 0L640 310M1020 0L840 310M1200 65L1060 310" stroke="#38bdf8" stroke-opacity=".11" stroke-width="2"/>
+<circle cx="1040" cy="155" r="112" fill="none" stroke="#38bdf8" stroke-opacity=".23" stroke-width="1.5"/><circle cx="1040" cy="155" r="78" fill="none" stroke="#a78bfa" stroke-opacity=".32" stroke-width="1.5"/>
+<path d="M1005 129l-28 26 28 26M1075 129l28 26-28 26M1056 115l-31 80" fill="none" stroke="url(#accent)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="64" y="53" width="7" height="204" rx="3" fill="url(#accent)"/>
+<text x="101" y="106" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing="5" fill="#7dd3fc">HELLO, I'M</text>
+<text x="99" y="178" font-family="Arial, Helvetica, sans-serif" font-size="61" font-weight="700" fill="#f8fafc">Shadman Samir</text>
+<text x="102" y="225" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#cbd5e1">Software Engineering  /  AI &amp; ML  /  Web3</text>
+<text x="102" y="266" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#94a3b8">Computer Science · Texas Tech University</text>
+</svg>
